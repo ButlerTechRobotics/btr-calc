@@ -1,0 +1,6 @@
+KRAKEN X60 (docs.wcproducts.com/welcome/electronics/kraken-x60/...)
+- trapezoidal: free 6000 RPM, free 2 A, stall 7.09 Nm, stall 366 A, peak 1108 W
+- FOC: free 5800 RPM, free 2 A, stall 9.37 Nm, stall 483 A, peak 1405 W
+- diameter 60 mm / 2.37 in (2.50 in with bump); length 75 mm / 2.96 in (WCP-0940 X60 + Talon FX); 1.2 lb
+- mounting: 11x #10-32 blind holes on 2" bolt circle, 30 deg apart; 3/4" pilot boss (same as CIM/NEO/Falcon)
+- shaft: SplineXS, 8 mm OD, 15 teeth, module 0.5, 30 deg PA, #10-32 tapped end, non-replaceable

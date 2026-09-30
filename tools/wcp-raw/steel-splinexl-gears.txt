@@ -1,0 +1,30 @@
+/products/steel-splinexl-gears n=26
+BASE: St SG (SplineXL Bore)  [Steel Spur Gear (20 DP, SplineXL Bore)]
+DESC: SplineXL bore with MotionX pattern for SplineXL tubes and MotionX accessories / 4140 steel / overall width 0.500"
+PRICES: option prices shown as "+$" add-ons in WCP's configurator
+1082 34 4.99
+1083 36 4.99
+1084 38 4.99
+1085 40 4.99
+1086 42 4.99
+1087 44 4.99
+1088 46 4.99
+1089 48 4.99
+1090 50 7.99
+1091 52 7.99
+1092 54 7.99
+1093 56 7.99
+1094 58 7.99
+1095 60 9.99
+1096 62 9.99
+1097 64 9.99
+1098 66 9.99
+1099 68 11.99
+1100 70 11.99
+1101 72 11.99
+1102 74 11.99
+1103 76 12.99
+1104 78 12.99
+1105 80 12.99
+1106 82 14.99
+1107 84 14.99

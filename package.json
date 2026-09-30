@@ -1,0 +1,6 @@
+{
+  "name": "btr-calc",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node tools/test-core.mjs" }
+}

@@ -1,0 +1,42 @@
+/products/steel-hex-bore-gears n=39
+BASE: Pkt St SG MX (1/2" hex)   [Pocketed Steel Spur Gear with MotionX (20 DP, 1/2" Hex Bore)]
+DESC: 20DP 14.5deg PA, overall width 0.500", 4140 steel, 1/2" hex bore
+0290 16 11.99 {St SG (1/2" Rounded hex)}
+0733 18 11.99 {St SG (1/2" hex)}
+0734 20 11.99 {St SG (1/2" hex)}
+0735 22 12.99 {St SG (1/2" hex)}
+0736 24 12.99 {St SG (1/2" hex)}
+0737 26 13.99 {St SG (1/2" hex)}
+0738 28 13.99 {St SG (1/2" hex)}
+0175 36 7.99 {St SG (1/2" hex)}
+0176 38 7.99 {St SG (1/2" hex)}
+0553 30 13.99 {Pkt St SG (1/2" hex)}
+0554 32 13.99 {Pkt St SG (1/2" hex)}
+0542 34 13.99 {Pkt St SG (1/2" hex)}
+0555 36 13.99 {Pkt St SG (1/2" hex)}
+0556 38 14.99 {Pkt St SG (1/2" hex)}
+0177 40 15.99 {Pkt St SG (1/2" hex)}
+0178 42 15.99 {Pkt St SG (1/2" hex)}
+0179 44 16.99 {Pkt St SG (1/2" hex)}
+0180 46 16.99 {Pkt St SG (1/2" hex)}
+0181 48 16.99 {Pkt St SG (1/2" hex)}
+0182 50 18.99 {Pkt St SG (1/2" hex)}
+0183 52 11.99 {Pkt St SG (1/2" hex)}
+0186 58 11.99 {Pkt St SG (1/2" hex)}
+1143 52 21.99
+1144 54 21.99
+1145 56 21.99
+1146 58 22.99
+1147 60 24.99
+1148 62 24.99
+1149 64 24.99
+1430 66 27.99
+1431 68 29.99
+1432 70 29.99
+1433 72 31.99
+1434 74 32.99
+1435 76 33.99
+1436 78 33.99
+1437 80 34.99
+1438 82 34.99
+1439 84 34.99

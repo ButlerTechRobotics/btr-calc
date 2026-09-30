@@ -1,0 +1,3 @@
+/products/plastic-htd-timing-pulleys n=2
+1444 24 6.49 {24t x 9mm Wide Plastic Pulley (HTD 5mm, 1/2" Hex Bore), Nylon}
+1445 24 4.99 {24t x 5/16" Wide Plastic Pulley Slice (HTD 5mm, 1/2" Hex Bore) (2-Pack), Nylon}

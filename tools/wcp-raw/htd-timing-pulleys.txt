@@ -1,0 +1,28 @@
+/products/htd-timing-pulleys n=25
+BASE: x 9mm Wide Al Pul (HTD 5mm, 1/2" hex)  [NNt x 9mm Wide Aluminum Pulley (HTD 5mm, 1/2" Hex Bore)]
+DESC: machined aluminum, black anodized
+1017 12 11.99 {x 9mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+0076 12 10.99 {x 9mm Wide Al Pul (HTD 5mm, 8mm Key Bore)}
+0454 12 11.99 {x 9mm Wide Al Pul (HTD 5mm, Falcon Bore)}
+1801 14 11.99 {x 9mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1802 16 12.99 {x 9mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1634 18 13.99 {x 9mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1659 18 13.99 {x 9mm Wide Al Pul (HTD 5mm, 8mm Key Bore)}
+1018 12 11.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+0077 12 10.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm Key Bore)}
+0319 12 11.99 {x 15mm Wide Al Pul (HTD 5mm, Falcon Bore)}
+1803 14 12.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1804 16 12.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1805 18 13.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1420 15 9.99
+0563 18 12.99
+1754 20 12.99
+0564 24 13.99
+0565 30 15.99
+0990 36 16.99
+0562 15 9.99 {x 15mm Wide Al Pul (HTD 5mm, 1/2" hex)}
+0991 18 12.99 {x 15mm Wide Al Pul (HTD 5mm, 1/2" hex)}
+1755 20 12.99 {x 15mm Wide Al Pul (HTD 5mm, 1/2" hex)}
+0992 24 13.99 {x 15mm Wide Al Pul (HTD 5mm, 1/2" hex)}
+0993 30 15.99 {x 15mm Wide Al Pul (HTD 5mm, 1/2" hex)}
+0994 36 16.99 {x 15mm Wide Al Pul (HTD 5mm, 1/2" hex)}

@@ -1,0 +1,20 @@
+/products/splinexs-htd-timing-pulleys n=20
+BASE: x 9mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)
+2576 12 11.99
+1801 14 11.99
+2253 15 12.99
+1802 16 12.99
+1634 18 13.99
+2254 20 12.99
+2255 24 13.99
+2256 30 15.99
+2257 36 16.99
+2577 12 11.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1803 14 12.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+2258 15 12.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1804 16 12.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+1805 18 13.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+2259 20 12.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+2260 24 13.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+2261 30 15.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}
+2262 36 16.99 {x 15mm Wide Al Pul (HTD 5mm, 8mm SplineXS Bore)}

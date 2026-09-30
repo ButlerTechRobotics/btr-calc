@@ -1,0 +1,31 @@
+/products/splinexs-bore-gears n=28
+DESC: 20DP pinions, includes gear and mounting hardware, 14.5deg PA for 20DP, mounts to Kraken motors or gearboxes with SplineXS shaft, thinner gears for tight spaces, 10/20/32DP available
+NOTE: "(NNt CD ...)" = profile-shifted pinion that meshes at the center distance of an NN-tooth gear
+1006 8 8.99 {St SG (10t CD, 8mm SplineXS Bore)}
+1007 9 8.99 {St SG (10t CD, 8mm SplineXS Bore)}
+1008 10 8.99 {St SG (12t CD, 8mm SplineXS Bore)}
+1009 11 8.99 {St SG (12t CD, 8mm SplineXS Bore)}
+1010 12 8.99 {St SG (8mm SplineXS Bore)}
+1011 12 8.99 {St SG (14t CD, 8mm SplineXS Bore)}
+1012 13 8.99 {St SG (14t CD, 8mm SplineXS Bore)}
+1013 14 8.99 {St SG (8mm SplineXS Bore)}
+1014 14 8.99 {St SG (16t CD, 8mm SplineXS Bore)}
+1015 15 8.99 {St SG (16t CD, 8mm SplineXS Bore)}
+1016 16 8.99 {St SG (8mm SplineXS Bore)}
+1345 8 8.99 {x 1/2" Wide St SG (10t CD, 8mm SplineXS Bore)}
+1346 9 8.99 {x 1/2" Wide St SG (10t CD, 8mm SplineXS Bore)}
+1347 10 9.99 {x 1/2" Wide St SG (12t CD, 8mm SplineXS Bore)}
+1348 11 9.99 {x 1/2" Wide St SG (12t CD, 8mm SplineXS Bore)}
+1349 12 9.99 {x 1/2" Wide St SG (14t CD, 8mm SplineXS Bore)}
+1350 12 9.99 {x 1/2" Wide St SG (8mm SplineXS Bore)}
+1351 13 10.99 {x 1/2" Wide St SG (14t CD, 8mm SplineXS Bore)}
+1352 14 10.99 {x 1/2" Wide St SG (16t CD, 8mm SplineXS Bore)}
+1353 14 10.99 {x 1/2" Wide St SG (8mm SplineXS Bore)}
+1382 15 11.99 {x 1/2" Wide St SG (16t CD, 8mm SplineXS Bore)}
+1383 16 11.99 {x 1/2" Wide St SG (8mm SplineXS Bore)}
+1384 18 11.99 {x 1/2" Wide St SG (8mm SplineXS Bore)}
+1385 20 12.99 {x 1/2" Wide St SG (8mm SplineXS Bore)}
+1386 22 12.99 {x 1/2" Wide St SG (8mm SplineXS Bore)}
+1387 24 12.99 {x 1/2" Wide St SG (8mm SplineXS Bore)}
+1005 10 9.99 {St SG (10 DP, 8mm SplineXS Bore)}
+1464 15 9.99 {St SG (32 DP, 8mm SplineXS Bore)}

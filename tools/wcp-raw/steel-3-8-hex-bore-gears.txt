@@ -1,0 +1,20 @@
+/products/steel-3-8-hex-bore-gears n=17
+BASE: Pocketed Steel Spur Gear (20 DP, 3/8" Hex Bore)
+DESC: 20DP 14.5deg PA, overall width 0.500", 4140 steel, 3/8" hex bore
+0731 14 11.99 {Steel Spur Gear (20 DP, 3/8" Hex Bore)}
+1717 14 11.99 {Steel Spur Gear (20 DP, 16t Center Distance, 3/8" Hex Bore)}
+0732 16 11.99 {Steel Spur Gear (20 DP, 3/8" Hex Bore)}
+1719 16 11.99 {Steel Spur Gear (20 DP, 18t Center Distance, 3/8" Hex Bore)}
+0432 18 11.99 {Steel Spur Gear (20 DP, 3/8" Hex Bore)}
+0433 20 11.99 {Steel Spur Gear (20 DP, 3/8" Hex Bore)}
+0434 22 11.99 {Steel Spur Gear (20 DP, 3/8" Hex Bore)}
+0538 24 12.99 {Steel Spur Gear (20 DP, 3/8" Hex Bore)}
+0539 26 13.99
+0546 28 13.99
+0547 30 13.99
+0540 32 13.99
+0548 34 13.99
+0549 36 13.99
+0550 38 14.99
+0551 40 15.99
+0541 42 17.99

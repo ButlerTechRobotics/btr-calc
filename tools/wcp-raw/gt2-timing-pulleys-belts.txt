@@ -1,0 +1,15 @@
+/products/gt2-timing-pulleys-belts n=36
+PULLEYS (sku price label):
+1178 13.99 16t x 9mm Wide Aluminum Pulley (GT2 3mm, 8mm SplineXS Bore)
+1179 13.99 16t x 15mm Wide Aluminum Pulley (GT2 3mm, 8mm SplineXS Bore)
+0393 13.99 16t x 15mm Wide Aluminum Pulley (GT2 3mm, 8mm Key Bore)
+0603 13.99 16t x 9mm Wide Aluminum Pulley (GT2 3mm, Falcon Bore)
+0318 13.99 16t x 15mm Wide Aluminum Pulley (GT2 3mm, Falcon Bore)
+0614 9.99 12t x 9mm Wide Aluminum Pulley (GT2 3mm, RS550 Bore)
+0616 9.99 12t x 9mm Wide Aluminum Pulley (GT2 3mm, RS775 Bore)
+0662 14.99 24t x 9mm Wide Aluminum Pulley (GT2 3mm, 1/2" Hex Bore)
+0663 16.99 36t x 9mm Wide Aluminum Pulley (GT2 3mm, 1/2" Hex Bore)
+0664 17.99 48t x 9mm Wide Aluminum Pulley (GT2 3mm, 1/2" Hex Bore)
+0665 19.99 60t x 9mm Wide Aluminum Pulley (GT2 3mm, 1/2" Hex Bore)
+BELTS 9mm GT2 3mm (sku:teeth:price):
+0666:45:3.99 0667:50:3.99 0668:55:3.99 0669:60:4.99 1046:65:4.99 0670:70:4.99 1047:75:4.99 1048:80:4.99 0671:85:4.99 0672:90:5.99 1049:95:5.99 0673:100:5.99 0674:105:5.99 0675:110:6.99 1050:115:6.99 0676:120:6.99 0677:125:7.99 1051:130:8.99 0678:140:9.99 1052:150:9.99 1053:160:9.99 1054:170:9.99 0679:180:9.99 1055:190:9.99 1056:200:9.99

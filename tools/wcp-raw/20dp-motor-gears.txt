@@ -1,0 +1,23 @@
+/products/20dp-motor-gears n=32 (1006-1016 duplicate the SplineXS thin pinions)
+DESC: 20DP pinions, includes gear and mounting hardware, 14.5deg PA, mounts to various FRC motors
+0898 9 8.49 {St SG (10t CD, 8mm Round Bore)}
+0899 10 8.49 {St SG (12t CD, 8mm Key Bore)}
+0900 11 8.49 {St SG (12t CD, 8mm Key Bore)}
+0901 12 8.49 {St SG (8mm Key Bore)}
+1136 12 8.49 {St SG (14t CD, 8mm Key Bore)}
+0902 13 8.49 {St SG (14t CD, 8mm Key Bore)}
+0903 14 8.49 {St SG (8mm Key Bore)}
+1234 14 8.49 {St SG (16t CD, 8mm Key Bore)}
+1235 15 8.49 {St SG (16t CD, 8mm Key Bore)}
+1236 16 8.49 {St SG (8mm Key Bore)}
+0489 8 4.99 {St SG (10t CD, Falcon Bore)}
+0490 9 4.99 {St SG (10t CD, Falcon Bore)}
+0491 10 4.99 {St SG (12t CD, Falcon Bore)}
+0492 11 4.99 {St SG (12t CD, Falcon Bore)}
+0493 12 4.99 {St SG (Falcon Bore)}
+0494 13 4.99 {St SG (14t CD, Falcon Bore)}
+0495 14 4.99 {St SG (Falcon Bore)}
+1150 6 9.99 {St SG (8t CD, RS550/775 Bore)}
+1151 8 9.99 {St SG (10t CD, RS550/775 Bore)}
+0904 6 4.99 {St SG (8t CD, BAG Bore)}
+0905 8 4.99 {St SG (10t CD, BAG Bore)}
